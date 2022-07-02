@@ -1,8 +1,8 @@
 <template>
   <div>
-    <nav class="navbar navbar-dark bg-primary justify-content-between flex no-wrap flex-row">
+    <nav class="navbar navbar-red bg-black justify-content-between flex no-wrap flex-row">
       <div class="container mt-3">
-        <a class="navbar-brand float-left">EMPLOYEE PORTAL <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bhushan.jpg" alt="img-fluid" height="75"></a>
+        <a class="navbar-brand float-left">EMPLOYEE MANAGEMENT SYSTEM<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bhushan.jpg" alt="img-fluid" height="75"></a>
         <ul class="nav navbar-nav flex-row">
 
           <li class="nav-item">
